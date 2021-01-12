@@ -6,7 +6,7 @@ heart.csv Data set -> https://www.kaggle.com/ronitf/heart-disease-uci
 
     git clone https://github.com/gurayorhan/Data-Mining-With-Sklearn.git
 
-### Gerekli Kütüphaneleri Kur
+### Install Required Libraries
 
     pip install numpy
     pip install pandas
